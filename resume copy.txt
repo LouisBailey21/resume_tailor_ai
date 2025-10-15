@@ -1,0 +1,105 @@
+Senior Software Engineer
+Matheus Flores
+abcdef12345@gmail.com
+(123) 456-7890
+New York, NY, US
+https://www.linkedin.com/in/linkedin-url/
+
+Summary:
+Experienced Senior Software Engineer with 20+ years in full-stack development, cloud infrastructure, and scalable system design.
+Skilled in leading cross-functional teams and delivering impactful products using technologies like React, Next.js, Python, and AWS.
+Focused onoptimizing performance, reducing costs, and integrating AI/ML to solve complex business challenges.
+
+
+Professional Experience:
+
+Lead Software Engineer at Tend: 05/2019 – 01/2025
+• Architected and led development of an automated chart-preparation system enhanced by ML-based forecasting, reducing pre-appointment workflow time by 40%, integrating IEBV data into Dentrix.
+• Engineered a full-featured internal insurance platform with Next.js, shadcn, and DRF; implemented GraphQL endpoints and integrated Okta via AWS Cognito, enabling 2x faster insurance claim processing.
+• Directed the design and launch of a proprietary e-commerce platform, replacing Shopify to reduce third-party dependencies and enhance customization.
+• Identified and resolved AWS billing inefficiencies, reducing cloud spend by $60,000 annually.
+• Delivered key customer-facing features (booking/intake flows, marketing pages) and led Stripe payment integration across platforms.
+
+
+Application Developer at Vitol: 06/2017 – 05/2019
+• Spearheaded the creation of a data catalog platform using ReactJS, Redux, .NET Core, and Oracle DB, improving product search and rule-based data workflows.
+• Strengthened platform security through JWT-based API authentication and advanced bulk data upload features with validation, cutting admin overhead by 50%.
+• Automated Jenkins/Octopus CI/CD pipelines, reducing deployment errors by 75% and increasing release frequency.
+• Produced reusable UI components, ReactJS boilerplates, and contributed to Vitol's internal design system.
+• Led onboarding and documentation efforts, increasing new team member rampup speed by 30%.
+
+
+Data Scientist III at Toshiba Global Commerce Solutions: 06/2014 – 04/2017
+• Constructed reusable Python ETL scripts using configuration-driven design to onboard new B2B retail clients efficiently.
+• Improved service request classification accuracy by 22% using custom NLP pipelines and transformer-based models.
+• Integrated MongoDB with SQL-based systems, improving reporting accuracy and accessibility by 30%.
+• Forecasted device behavior with TensorFlow-based deep learning models to inform hardware planning strategies, reducing downtime incidents by 20%.
+• Managed Tableau reporting and automated data ingestion using Azure services, Synapse, and PySpark.
+
+
+Python Developer at Bank of America: 03/2011 – 04/2014
+• Established CI/CD infrastructure and monitoring tools using Python, MySQL, Jenkins, and MongoDB, accelerating deployments by 40% across multiple teams.
+• Crafted REST and SOAP-based web services to integrate credit and financial data systems securely.
+• Assembled interactive AJAX-driven UI/UX with Angular, Backbone.js, and Bootstrap, managing all frontend/backend integration.
+• Created geolocation APIs with Java, Spring, MongoDB, and AWS infrastructure (S3, RDS).
+• Reduced backend latency by 15% through Django optimization and asynchronous Celery task queues.
+
+
+Lead Software Developer at Google: 01/2009 – 01/2011
+• Led a team of 6 engineers in building a large-scale data ingestion pipeline for Google News, processing over 500K articles daily using MapReduce and Bigtable.
+• Spearheaded a cross-functional initiative with UX and product teams, improving user engagement in Google News by 17% by integrating personalization algorithms (collaborative filtering + trending detection).
+• Mentored 10+ junior engineers and interns, facilitating code reviews, pair programming sessions, and design walkthroughs.
+• Presented engineering findings and product impact reports to senior leadership, aligning technical efforts with company goals.
+
+
+Software Developer at Google: 09/2006 – 12/2008
+• Enhanced map tile rendering efficiency by 30% through backend improvements to Google Maps services using Java and C++.
+• Produced RESTful APIs for real-time traffic data, helping scale the service to support 1+ millions of users.
+• Led a small team in migrating legacy systems to a microservices architecture, reducing deployment complexity and improving system uptime by 25%.
+• Participated in on-call rotations and resolved high-severity incidents, reducing mean time to resolution (MTTR) by 20% through deep root cause analysis.
+
+
+Software Developer Intern at Google: 09/2005 – 08/2006
+• Contributed to the development of internal tools for optimizing AdWords campaign performance using Java and Python.
+• Formulated unit and integration test suites that reduced bug rates by 25% in staging environments.
+• Collaborated with full-time engineers on real-world codebases, gaining deep exposure to Google’s engineering best practices.
+
+
+Skills:
+JavaScript
+C# / .NET
+C / C++
+SASS / LESS
+Webpack / ESLint
+MySQL/PostgreSQL
+GCP
+CI/CD
+Gen AI (GPT, BERT, LLMS)
+Asana / Jira / Trello
+Communication
+TypeScript
+PHP / Laravel
+React / VueJS
+TailwindCSS
+Node.js / Express
+MongoDB / NoSQL
+AWS S3, Lambda
+Data Science
+NLP
+Team Collaboration
+Windows / Linux / MacOS
+Python
+Java
+AngularJS
+jQuery
+Django / Flask
+ETL Processing
+Docker/Kubernetes
+Machine Learning
+Agile (Scrum) / TDD
+Leadership
+
+
+Education:
+Bachelor of Science, Computer Science (08/2001 – 05/2005)
+Florida Agricultural and Mechanical University
