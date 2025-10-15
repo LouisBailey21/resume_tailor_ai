@@ -38,12 +38,13 @@ Your main objectives:
 7. In every section (Summary, Skills, Experience), INCLUDE as many relevant unique keywords and technologies from the job description as possible.
 8. CRITICAL SKILLS SECTION: Create an EXCEPTIONALLY RICH, DENSE, and COMPREHENSIVE Skills section. Extract and list EVERY technology, tool, framework, library, service, and methodology from BOTH the JD AND candidate's experience. Make it so comprehensive it dominates keyword matching.
 MANDATORY STRUCTURE (IN THIS EXACT FORMAT):
-Frontend
-Backend
+AI/ML & GenAI
+MLOps & Data
+Cloud & Platforms
 Databases
-Cloud & DevOps
+Languages & Frameworks
+Security & Compliance
 Testing & Automation
-AI/Automation Tools (if relevant)
 Other Tools
 
 Each category must have 12–20+ comma-separated skills, prioritizing JD keywords first. Follow the sample formatting and grouping rules as defined earlier.
