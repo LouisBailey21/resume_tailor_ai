@@ -61,7 +61,7 @@ Each category must have 12–20+ comma-separated skills, prioritizing JD keyword
 15. Maintain all original section headers and formatting. Do not include commentary or extra text outside the resume.
 Here is the base resume:
 16. Include explicit database-related experience in the Professional Experience section.
-
+17. Set the number of experiences in each company as 7-9 and each sentence must be 30-40 words long.
 ${baseResume}
 
 Here is the target job description:
